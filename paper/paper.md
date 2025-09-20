@@ -22,10 +22,13 @@ authors:
     affiliation: 5
   - name: Atsuko Yamaguchi
     affiliation: 6
+    orcid: 0000-0001-7538-5337
   - name: Akira Kinjo
     affiliation: 7
+    orcid: 0000-0002-4006-8208
   - name: Toshiaki Katayama
     affiliation: 2
+    orcid: 0000-0003-2391-0384
 affiliations:
   - name: Leibniz Institute DSMZ-German Collection of Microorganisms and Cell Cultures
     index: 1
