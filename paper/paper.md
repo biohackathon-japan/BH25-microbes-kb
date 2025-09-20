@@ -18,10 +18,12 @@ authors:
   - name: Takeru Nakazato
     affiliation: 4
     orcid: 0000-0002-0706-2867
-  - name: Daisuke Satoh
-    affiliation: 2
+  - name: Daisuke Sato
+    affiliation: 5
   - name: Atsuko Yamaguchi
-    affiliation: 2
+    affiliation: 6
+  - name: Akira Kinjo
+    affiliation: 7
   - name: Toshiaki Katayama
     affiliation: 2
 affiliations:
@@ -31,8 +33,15 @@ affiliations:
     index: 2
   - name: OKBP Inc.
     index: 3
-  - name: Biological Resource Center, National Institute of Technology and Evaluation (NBRC)
+  - name: Biological Resource Center, National Institute of Technology and Evaluation
     index: 4
+  - name: Kamonohashi Inc.
+    index: 5
+  - name: Tokyo City University
+    index: 6
+  - name: Anima Machina G.K.
+    index: 7
+  
 date: 15 September 2025
 cito-bibliography: paper.bib
 event: BH25JP
